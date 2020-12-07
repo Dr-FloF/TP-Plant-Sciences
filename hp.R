@@ -20,4 +20,4 @@ generate_badge()
 build_binder()
 # 🤞🚀
 
-Now, run through analysis.R till you get to a plot
+#Now, run through analysis.R till you get to a plot
